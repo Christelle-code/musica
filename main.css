@@ -1,0 +1,14 @@
+.card {
+    margin: 10px;
+    border: 2px solid violet;
+    background-color: pink;
+    padding: 20px;
+}
+
+.btn-primary {
+  width: 50%;
+  margin-bottom: 5px;
+}
+.btn-info {
+    width: 50%;
+  }
